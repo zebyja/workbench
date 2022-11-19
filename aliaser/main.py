@@ -1,0 +1,2 @@
+def aliaser():
+    print('aliaser')
